@@ -9,4 +9,4 @@
 
 ## Overview 
  #### PHP Framework : <a href="https://codeigniter.com/userguide3/index.html">CodeIgniter 3</a>
-#### Databse : printmax
+#### Database : printmax
